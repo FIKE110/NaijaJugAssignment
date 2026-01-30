@@ -25,7 +25,7 @@ To get started with the code in this repository, you will need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/NaijaJugAssignment.git # Replace with actual repo URL
+    git clone https://github.com/fike110/NaijaJugAssignment.git # Replace with actual repo URL
     cd NaijaJugAssignment
     ```
 2.  **Compile and Run (Maven):**
