@@ -38,10 +38,6 @@ To get started with the code in this repository, you will need:
 
 This repository is primarily for bootcamp participants. However, if you are an instructor or a mentor and wish to contribute, please contact the bootcamp organizers.
 
-## License
-
-(Add appropriate license information here, e.g., MIT, Apache 2.0, or specify if proprietary)
-
 ---
 
 **Naija JUG - Empowering Java Developers in Nigeria**
